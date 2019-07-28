@@ -1,0 +1,3 @@
+SynthDef("sine", { |amp = 0.5, freq = 440|
+   Out.ar(0, SinOsc.ar(freq, 0, amp) ! 2);
+}, variants:(alpha:[amp:0.25,freq:880], beta:[freq:1760]))

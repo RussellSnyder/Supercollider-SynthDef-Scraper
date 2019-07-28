@@ -12,10 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "SynthDefPool": "git+https://git@github.com:supercollider-quarks/SynthDefPool.git",
     "express": "^4.17.1",
-    "supercolliderjs": "^0.14.2",
-    "synthdef-json-decoder": "^1.0.2",
-    "synthdef-json-encoder": "^1.0.0"
+    "supercolliderjs": "^0.14.2"
   }
 }
