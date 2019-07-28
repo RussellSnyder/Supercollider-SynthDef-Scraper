@@ -16,5 +16,5 @@ a web-based app to help you bootstrap a supercollider project using known sytnhs
 ## TODO
 
 [ ] Decide on best format for data scraping
-[ ] Dockerize and add script to pull SynthDefPool and other SynthDef files from the web on startup
-[ ] Pull in more Synth pools
+[ ] Enrich and Scrape all of the SynthDefPool SynthDefs
+[ ] Pull in more Synth pools and repeat
